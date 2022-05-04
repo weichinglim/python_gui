@@ -52,6 +52,7 @@ Packages
 ## Setup
 - Install Python: https://www.python.org/downloads/
 - Install Anaconda: https://www.anaconda.com/
+- After installation, run codes on _main.py_ file to used GUI for data visualization of economic performance
 
 ## Project Status
 Project is: _complete_
